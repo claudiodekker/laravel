@@ -858,11 +858,11 @@
         },
         {
             "name": "laravel/framework",
-            "version": "8.44",
+            "version": "8.44+normal",
             "dist": {
                 "type": "zip",
                 "url": "./local/build/framework.zip",
-                "shasum": "83139f7d0d1d70d7326b309fee0b0fb52ad3c08d"
+                "shasum": "9a72b1b686806b8d9312734d7c5ddccbb6ca1d47"
             },
             "require": {
                 "doctrine/inflector": "^1.4|^2.0",

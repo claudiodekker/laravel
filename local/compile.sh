@@ -1,5 +1,5 @@
 #!/bin/bash
-VERSION=8.44
+VERSION=8.44+normal
 
 rm -f build/*.zip
 cd framework/src/Illuminate
